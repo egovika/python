@@ -68,7 +68,7 @@ for el in range(my_str.count(' ') + 1):
 
 my_list = [7, 5, 3, 3, 2]
 print(f"Рейтинг - {my_list}")
-digit = int(input("Введите число (111 - выход) "))
+digit = float(input("Введите число (111 - выход) "))
 while digit != 111:
     for el in range(len(my_list)):
         if my_list[el] == digit:
