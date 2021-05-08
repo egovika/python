@@ -1,5 +1,4 @@
 
-
 1
 
 def my_func (x, y):
@@ -64,6 +63,7 @@ def sum_num():
         print(f"Sum of numbers = {s}")
 
 print(sum_num())
+
 
 
 
